@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">FINA_1202150284_MODUL2</string>
+    <string name="todo">eatball</string>
+    <string name="pilih_menu">Pilih Menu:</string>
+    <string name="dine_in">Dine In</string>
+    <string name="take_away">Take Away</string>
+    <string name="pesan_sekarang">PESAN SEKARANG</string>
+    <string name="harga">Harga</string>
+    <string name="coconutdelight">Coconut Delight</string>
+    <string name="rp_10_000">Rp. 10.000</string>
+
+    <string-array name="menu">
+        <item>Pilih Meja</item>
+        <item>Meja 1</item>
+        <item>Meja 2</item>
+        <item>Meja 3</item>
+        <item>Meja 4</item>
+        <item>Meja 5</item>
+
+    </string-array>
+    <string name="date_picker">datePicker</string>
+    <string name="time_picker">timePicker</string>
+
+    <string name="coconutdeligt">Kelapa, Greentea Ice Cream, Topping</string>
+    <string name="banananutella">Nutella Ice Cream, Pisang</string>
+    <string name="bananasplit">Ice Cream 3 rasa, Pisang, Topping</string>
+    <string name="candy">Vanilla Ice Cream, Permen Warna-warni</string>
+    <string name="frutarian">Ice Cream 3 rasa, Buah-buahan, Topping</string>
+    <string name="cone">Ice Cream 3 rasa menggunakan cone waffle</string>
+    <string name="chocogreen">Ice Cream Greentea Ditaburi Coklat</string>
+    <string name="rainbow">Ice Cream warna warni, topping</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
